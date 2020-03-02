@@ -33,8 +33,8 @@ monopoly = {
       :four_pieces_owned => 200
       }
   
-    } 
-}
+    }   
+  }
 }
 monopoly
 end
